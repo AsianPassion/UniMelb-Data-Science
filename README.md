@@ -32,9 +32,10 @@ For a (very very) neat timetable planner for university, visit my mate Rohyl's [
 ## About Me
 - Data Engineer, Consultant at DXC Technology
 - Graduated 2019 with a major in Data Science (UniMelb)
-- Tutor/Demonstrator for Foundations of Computing (COMP10001) and Algorithm & Data Structures (COMP20003)
+- Tutor for Applied Data Science, Foundations of Computing, and Algorithms & Data Structres
 - Experienced as a Cloud Architect (AWS, Azure and GCP), Data Engineer and as a Data Analyst. 
 - I also love developing assorted Python scripts *to automate the boring stuff* 
+- Strongly believes that sharepoint databases and anything resembling Microsoft Power Automate should cease to exist
 
 Lastly, if ya liked this guide / repository, please leave a cheeky star so I know it's worth keeping updated and online! 
 
@@ -133,9 +134,9 @@ There's a lot more maths than you think (the major shares the same core maths as
 **Applied Data Science (Capstone Project):**
 - A very informative subject to make an overall great learning experience
 - Project is very fun and enjoyable if you love applying different techniques you've learnt over the previous subjects
-  - Specifically, we had to create a game playing agent to act as a Taxi driver using real world data.
+- Open ended assignments with the freedom to choose your tool/software to do your research
 - Group project is very dependent on how good your team works together, so find peers that have a similar work ethic as you!
-- **Edit: Michael Kirley will be the new lecturer!!!**
+- **UPDATE 3: Dr Weichang Yu is the new subject coordinator!!!**
 
 **Maths Subjects**:
 - They're all well run
