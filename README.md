@@ -33,9 +33,11 @@ For a (very very) neat timetable planner for university, visit my mate Rohyl's [
 - Data Engineer, Consultant at DXC Technology
 - Graduated 2019 with a major in Data Science (UniMelb)
 - Tutor for Applied Data Science, Foundations of Computing, and Algorithms & Data Structres
-- Experienced as a Cloud Architect (AWS, Azure and GCP), Data Engineer and as a Data Analyst. 
-- I also love developing assorted Python scripts *to automate the boring stuff* 
+- Experienced as a Cloud Architect (AWS, Azure and GCP), Data Engineer and Data Analyst. 
+- I love developing assorted Python scripts *to automate the boring stuff* 
 - Strongly believes that sharepoint databases and anything resembling Microsoft Power Automate should cease to exist
+
+Always up for a chat to help out, feel free to reach out via [linkedin](https://www.linkedin.com/in/akira-t-wang/)
 
 Lastly, if ya liked this guide / repository, please leave a cheeky star so I know it's worth keeping updated and online! 
 
